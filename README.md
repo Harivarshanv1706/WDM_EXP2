@@ -1,13 +1,15 @@
-### EX2 Generating Association Rules for Employee dataset using Apriori Algorithm
-### DATE: 18.11.2026
-### AIM: To generate associate rules for the employee dataset using Apriori Algorithm.
-### Description:
+# EX2 Generating Association Rules for Employee dataset using Apriori Algorithm
+## DATE: 18.11.2026
+## NAME: HARI VARSHAN V
+# AIM:
+To generate associate rules for the employee dataset using Apriori Algorithm.
+# Description:
 In data mining, association rule learning is a popular and well researched method for discovering interesting
 relations between variables in large databases. It can be described as analyzing and presenting strong rules discovered
 in databases using different measures of interestingness. In market basket analysis association rules are used and they
 are also employed in many application areas including Web usage mining, intrusion detection and bioinformatics.
 Creation of Buying Table:
-### Procedure:
+# Procedure:
 1) Open Start -> Programs -> Accessories -> Notepad
 2) Type the following training data set with the help of Notepad for Buying Table.
 
@@ -41,10 +43,10 @@ G40,high,yes,excellent,yes
 6) In that dialog box there are four modes, click on explorer.
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
-### OUTPUT:
+# OUTPUT:
 
 
-### Procedure for Association Rules:
+# Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
 2) Open explorer.
 3) Click on open file and select buying.arff
@@ -52,10 +54,10 @@ G40,high,yes,excellent,yes
 5) Select Choose button and then click on Apriori Algorithm.
 6) Click on Start button and output will be displayed on the right side of the window.
 
-### OUTPUT:
+# OUTPUT:
 <img width="992" height="882" alt="Screenshot 2026-11-18 160708" src="https://github.com/user-attachments/assets/e67e2e33-06ea-4ba7-ba4f-33e84623dbd1" />
 <img width="270" height="265" alt="Screenshot 2026-11-18 160720" src="https://github.com/user-attachments/assets/5f78888f-4828-4e31-9126-9bd134004d9f" />
 
 
-### RESULT: 
+# RESULT: 
 Thus to generate associate rules for the employee dataset using Apriori Algorithm is implemented.
